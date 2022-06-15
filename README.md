@@ -1,6 +1,7 @@
 # React Truffle Box
-
+the difference between this repository and the original truffle box is tha instead class components, functional components are used.
 This box comes with everything you need to start using smart contracts from a react app. This is as barebones as it gets, so nothing stands in your way.
+
 
 ## Installation
 
